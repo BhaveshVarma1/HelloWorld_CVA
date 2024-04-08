@@ -5,7 +5,7 @@ from gtts import gTTS
 import playsound
 
 
-genai.configure(api_key="AIzaSyBrtk994S8rzdxFZz5lacqHgo0G_X0ebF8")
+genai.configure(api_key="")
 
 # Set up the model
 generation_config = {
